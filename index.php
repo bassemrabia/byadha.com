@@ -19,5 +19,6 @@ body {
 <body>
 <div class="container text-center">
 	<img src="logo.png" />
+	root@localhost:/var/www/byadha.com/public_html# git pull https://github.com/bassemrabia/byadha.com.git
 </body>
 </html>
